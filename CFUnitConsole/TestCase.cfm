@@ -1,0 +1,1 @@
+				<cfFunction					name		= "executionTest"					returnType	= "any"					access		= "public"					output		= "yes"				>					<cfReturn Server.coldfusion />				</cfFunction>			
