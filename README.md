@@ -19,7 +19,8 @@ developer the best functionality tools
 
 Installation
 =======
-Adobe ColdFusion 9+ (Will Not work with Railo, Currently)
+Adobe ColdFusion 9+ (Will Not work with Railo or Lucee, Currently).
+
 The Best way to Install CF-Expose is to do the Following:
 
 Make a Mapping to /cfexpose in CFAdmin under Mappings
